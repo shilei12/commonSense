@@ -9,3 +9,9 @@ git config --global user.email "qwepoi1248@163.com"
 set-url -v
 
 git remote set-url origin git@github.com:shilei12/commonSense.git
+
+修改git bash界面由window的界面风格换成linux的风格
+
+vim ~/.bash_profile
+
+export PS1="\\u@windows:\w\$(__git_ps1 '(%s)')\$ "
