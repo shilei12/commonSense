@@ -1,0 +1,11 @@
+ssh-keygen -t rsa -C "qwepoi1248@163.com" // ssh key
+
+cat ~/.ssh/id_rsa.pub // 打印ssh key
+
+git config --global user.name "shilei"
+
+git config --global user.email "qwepoi1248@163.com"
+
+set-url -v
+
+git remote set-url origin git@github.com:shilei12/commonSense.git
