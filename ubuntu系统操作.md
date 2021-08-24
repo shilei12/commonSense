@@ -8,10 +8,7 @@ sudo reboot
 ```cpp
 lsb_release -a
 ```
-
-
-
-
-
-
-
+# 1.2 Ubuntu的安装路径
+```
+C:\Users\ASUS\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs\home\shilei
+```
