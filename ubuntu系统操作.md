@@ -2,6 +2,7 @@
 ```cpp
 sudo apt-get update
 sudo apt-get dist-upgrade
+sudo do-release-upgrade 或者 sudo do-release-upgrade -d
 sudo reboot
 ```
 # 1.1 Ubuntu版本查看
